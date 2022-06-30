@@ -19,7 +19,7 @@
 - *Chapter 11 - Where To Go Next*
 ***
 ## Progress
-- *Chapter 01 - Introduction To Algorithms* ✅
+- *Chapter 01 - Introduction To Algorithms* ✅ - [Code](https://github.com/GeorgeBeshay/Grokking-Algorithms/tree/main/Grokking%20Algorithms/Chapter%2001)
 - *Chapter 02 - Selection Sort*
 - *Chapter 03 - Recursion*
 - *Chapter 04 - Quick Sort*
