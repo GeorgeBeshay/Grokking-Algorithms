@@ -20,7 +20,7 @@
 ***
 ## Progress
 - *Chapter 01 - Introduction To Algorithms* ✅ - [Code](https://github.com/GeorgeBeshay/Grokking-Algorithms/tree/main/Grokking%20Algorithms/Chapter%2001)
-- *Chapter 02 - Selection Sort*
+- *Chapter 02 - Selection Sort* ✅ - [Code](https://github.com/GeorgeBeshay/Grokking-Algorithms/tree/main/Grokking%20Algorithms/Chapter%2002%20-%20Selection%20Sort)
 - *Chapter 03 - Recursion*
 - *Chapter 04 - Quick Sort*
 - *Chapter 05 - Hash Tables*
