@@ -22,7 +22,7 @@
 - *Chapter 01 - Introduction To Algorithms* ✅ - [Code](https://github.com/GeorgeBeshay/Grokking-Algorithms/tree/main/Grokking%20Algorithms/Chapter%2001)
 - *Chapter 02 - Selection Sort* ✅ - [Code](https://github.com/GeorgeBeshay/Grokking-Algorithms/tree/main/Grokking%20Algorithms/Chapter%2002%20-%20Selection%20Sort)
 - *Chapter 03 - Recursion* ✅ - [Code](https://github.com/GeorgeBeshay/Grokking-Algorithms/tree/main/Grokking%20Algorithms/Chapter%2003%20-%20Recursion)
-- *Chapter 04 - Quick Sort*
+- *Chapter 04 - Quick Sort* 🏗️ - [Code](https://github.com/GeorgeBeshay/Grokking-Algorithms/tree/main/Grokking%20Algorithms/Chapter%2004%20-%20Quick%20Sort)
 - *Chapter 05 - Hash Tables*
 - *Chapter 06 - Breadth First Search*
 - *Chapter 07 - Dijkstra's Algorithm*
@@ -30,3 +30,4 @@
 - *Chapter 09 - Dynamic Programming*
 - *Chapter 10 - K-Nearest Neighbors*
 - *Chapter 11 - Where To Go Next*
+***
