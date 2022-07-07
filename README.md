@@ -23,7 +23,7 @@
 - *Chapter 02 - Selection Sort* ✅ - [Code](https://github.com/GeorgeBeshay/Grokking-Algorithms/tree/main/Grokking%20Algorithms/Chapter%2002%20-%20Selection%20Sort)
 - *Chapter 03 - Recursion* ✅ - [Code](https://github.com/GeorgeBeshay/Grokking-Algorithms/tree/main/Grokking%20Algorithms/Chapter%2003%20-%20Recursion)
 - *Chapter 04 - Quick Sort* ✅ - [Code](https://github.com/GeorgeBeshay/Grokking-Algorithms/tree/main/Grokking%20Algorithms/Chapter%2004%20-%20Quick%20Sort)
-- *Chapter 05 - Hash Tables*
+- *Chapter 05 - Hash Tables* 🏗️ - [Code](https://github.com/GeorgeBeshay/Grokking-Algorithms/tree/main/Grokking%20Algorithms/Chapter%2005%20-%20Hash%20Tables)
 - *Chapter 06 - Breadth First Search*
 - *Chapter 07 - Dijkstra's Algorithm*
 - *Chapter 08 - Greedy Algorithms*
