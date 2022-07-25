@@ -24,7 +24,7 @@ Emojis:
 - ✅
 -->
 ## Progress
-![69%](https://progress-bar.dev/69?title=Progress)
+![79%](https://progress-bar.dev/79?title=Progress)
 - *Chapter 01 - Introduction To Algorithms* ✅ - [Code](https://github.com/GeorgeBeshay/Grokking-Algorithms/tree/main/Grokking%20Algorithms/Chapter%2001)
 - *Chapter 02 - Selection Sort* ✅ - [Code](https://github.com/GeorgeBeshay/Grokking-Algorithms/tree/main/Grokking%20Algorithms/Chapter%2002%20-%20Selection%20Sort)
 - *Chapter 03 - Recursion* ✅ - [Code](https://github.com/GeorgeBeshay/Grokking-Algorithms/tree/main/Grokking%20Algorithms/Chapter%2003%20-%20Recursion)
@@ -33,7 +33,7 @@ Emojis:
 - *Chapter 06 - Breadth First Search* ✅ - [Code](https://github.com/GeorgeBeshay/Grokking-Algorithms/tree/main/Grokking%20Algorithms/Chapter%2006%20-%20Breadth%20First%20Search)
 - *Chapter 07 - Dijkstra's Algorithm* ✅ - [Code](https://github.com/GeorgeBeshay/Grokking-Algorithms/tree/main/Grokking%20Algorithms/Chapter%2007%20-%20Dijkstra's%20Algorithm)
 - *Chapter 08 - Greedy Algorithms* ✅ [Code](https://github.com/GeorgeBeshay/Grokking-Algorithms/tree/main/Grokking%20Algorithms/Chapter%2008%20-%20Greedy%20Algorithms)
-- *Chapter 09 - Dynamic Programming*
+- *Chapter 09 - Dynamic Programming* ✅ [Code](https://github.com/GeorgeBeshay/Grokking-Algorithms/tree/main/Grokking%20Algorithms/Chapter%2009%20-%20Dynammic%20Programming)
 - *Chapter 10 - K-Nearest Neighbors*
 - *Chapter 11 - Where To Go Next*
 ***
