@@ -35,5 +35,5 @@ Emojis:
 - *Chapter 08 - Greedy Algorithms* ✅ [Code](https://github.com/GeorgeBeshay/Grokking-Algorithms/tree/main/Grokking%20Algorithms/Chapter%2008%20-%20Greedy%20Algorithms)
 - *Chapter 09 - Dynamic Programming* ✅ [Code](https://github.com/GeorgeBeshay/Grokking-Algorithms/tree/main/Grokking%20Algorithms/Chapter%2009%20-%20Dynammic%20Programming)
 - *Chapter 10 - K-Nearest Neighbors* ✅ [Code](https://github.com/GeorgeBeshay/Grokking-Algorithms/tree/main/Grokking%20Algorithms/Chapter%2010%20-%20K-Nearest%20Neighbors)
-- *Chapter 11 - Where To Go Next*
+- *Chapter 11 - Where To Go Next* ✅
 ***
